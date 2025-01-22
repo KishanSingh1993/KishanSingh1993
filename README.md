@@ -1,6 +1,6 @@
 # Hi there, I'm Kishan Singh! 👋
 
-![Profile views](https://gpvc.arturio.dev/KishanSingh1993)
+![Profile views]([https://gpvc.arturio.dev/KishanSingh1993](https://github.com/account))
 
 ## About Me
 
