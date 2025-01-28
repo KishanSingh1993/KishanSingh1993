@@ -7,7 +7,7 @@
 - 🌱 I’m Senior Software Engineer & currently learning Data & AI.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Android, Java, Kotlin, Flutter, React Native, Python, JavaScript, Power Apps, Power BI and Machine Learning.
-- 📫 How to reach me: [kishansingh@example.com](mailto:kishang.90@gmail.com)
+- 📫 How to reach me: (mailto:kishang.90@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and playing chess.
 
 ## Skills
